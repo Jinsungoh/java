@@ -8,7 +8,7 @@ public class C03Str {
 		int sum = a + b + c;
 		System.out.printf("sum: %d\n", sum);
 		
-		String sumStr = "" + sum;
+		String sumStr = "" + sum;//class타입의 변수는 4byte이다.
 		System.out.println(sumStr);
 		
 	}
