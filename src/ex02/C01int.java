@@ -1,4 +1,4 @@
-package ch02ex02;
+package ex02;
 
 public class C01int {
 	public static void main(String[]args) {
