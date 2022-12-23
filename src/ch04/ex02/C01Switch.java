@@ -8,7 +8,7 @@ public class C01Switch {
 		switch(grade) {
 		case 1 -> coupon = "5만원";
 		case 2 -> coupon = "1만원";
-		case 3 -> coupon = "1천원";
+		default  -> coupon = "1천원";
 		}
 		System.out.println(coupon);
 	}

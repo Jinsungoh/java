@@ -21,9 +21,9 @@ public class C04Switch {
 		default ->{yield comment +"is too long.";}
 		};
 		System.out.println(msg);
-		//yield :keyowrd x,restricted idneitfier 0
-		int yield =1;
+		//yield : keyowrd x,restricted idnetifier 0
+		int yield = 1;
 		System.out.println(yield);
-		//int swutch = 1;
+		//int switch = 1;
 	}
 }
