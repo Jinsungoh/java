@@ -9,7 +9,9 @@ public class C03Str {
 		System.out.printf("sum: %d\n", sum);
 		
 		String sumStr = "" + sum;//class타입의 변수는 4byte이다.
-		System.out.println(sumStr);	
+		System.out.println(sumStr);
+		
+		int i = Integer.parseInt(sumStr);
 		
 		String s = a + b + "";//"은 붙히기로 문자로 인식된다.
 		System.out.println(s);
