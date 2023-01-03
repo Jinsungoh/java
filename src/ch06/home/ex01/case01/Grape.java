@@ -1,4 +1,4 @@
-package ch06.home.ex01.case03;
+package ch06.home.ex01.case01;
 
 public class Grape extends Fruit {
 
