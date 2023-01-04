@@ -5,9 +5,5 @@ public class Product {
 	
 	public Product(int pirce) {
 		this.price = pirce;
-	}
-	
-	public int getPrice() {
-		return this.price;
-	}
+	}		
 }
