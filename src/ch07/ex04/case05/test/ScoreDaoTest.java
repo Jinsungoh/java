@@ -1,4 +1,4 @@
-package ch07.ex04.case05;
+package ch07.ex04.case05.test;
 
 import ch07.ex04.case05.dao.ScoreDao;
 import ch07.ex04.case05.dao.ScoreDaoImpl;

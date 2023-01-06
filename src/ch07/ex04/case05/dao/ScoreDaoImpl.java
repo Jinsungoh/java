@@ -19,4 +19,5 @@ public class ScoreDaoImpl implements ScoreDao{
 	public Score[] selectScores() {
 		return this.scores;
 	}
+	 	
 }
